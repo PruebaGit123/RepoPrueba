@@ -9,3 +9,9 @@ function gritar() {
 function Caminar() {
     console.log("Caminando")
 }
+function saltar() {
+    console.log("saltando")
+}
+function llorar() {
+    console.log("llorando")
+}
