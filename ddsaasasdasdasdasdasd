@@ -1,0 +1,45 @@
+[33mcommit daac60fb0afe9b5a1a6d25b31d254006bbc97f78[m[33m ([m[1;36mHEAD -> [m[1;32mrama-prueba[m[33m)[m
+Merge: f6be269 c788d13
+Author: FerLuque <pruebagit123@outlook.es>
+Date:   Fri Nov 5 22:01:25 2021 -0300
+
+    Merge remote-tracking branch 'origin/rama-fer' into rama-prueba
+
+[33mcommit c788d13c805c9b9827bf83ee5b5118801c5f3856[m[33m ([m[1;31morigin/rama-fer[m[33m)[m
+Author: FerLuque16 <feerluque77@gmail.com>
+Date:   Fri Nov 5 21:59:36 2021 -0300
+
+    -Añado funcion caminar
+
+[33mcommit f6be26987ee26fbe89b2122da33fb0789e258a1f[m
+Merge: 6e2ecb6 972c3ec
+Author: FerLuque <pruebagit123@outlook.es>
+Date:   Fri Nov 5 21:51:44 2021 -0300
+
+    Merge branch 'rama-fer' of https://github.com/PruebaGit123/RepoPrueba into rama-prueba
+
+[33mcommit 6e2ecb6051b1dd850e87a726466fce48e69e55e2[m[33m ([m[1;31morigin/rama-prueba[m[33m)[m
+Author: FerLuque <pruebagit123@outlook.es>
+Date:   Fri Nov 5 21:33:54 2021 -0300
+
+    -Agrego el footer
+    
+    -Agrego el mejor footer de la historia mundial
+
+[33mcommit 972c3ec0da7f5bf8fc1bce3361fe08968dc208e5[m
+Author: FerLuque16 <feerluque77@gmail.com>
+Date:   Fri Nov 5 19:58:57 2021 -0300
+
+    Añado funcion gritar a scripts.js
+
+[33mcommit 8ea29eba125b13266378640243f6f7839f1409f4[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: FerLuque <pruebagit123@outlook.es>
+Date:   Fri Nov 5 19:45:56 2021 -0300
+
+    Prueba
+
+[33mcommit 362be5f7900a12fd77fadd1a30f425b6b7cc603e[m
+Author: PruebaGit123 <93798622+PruebaGit123@users.noreply.github.com>
+Date:   Fri Nov 5 19:24:36 2021 -0300
+
+    Initial commit
