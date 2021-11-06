@@ -5,3 +5,7 @@ function saludar() {
 function gritar() {
     console.log("HOLAAAAA");
 }
+
+function Caminar() {
+    console.log("Caminando")
+}
